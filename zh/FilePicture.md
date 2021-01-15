@@ -1,10 +1,6 @@
 ![堡垒](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
-左对齐 | 居中对齐 | 右对齐
-:-- | :-: | --:
-第3列是 | 一些罗y的文字 | **$ 1600**
-第2列是 | 居中 | $ 12
-斑马条纹 | 整齐 | ~~ $ 1 ~~
+
 
 Dillinger是基于云的，可移动的，离线存储的，由AngularJS支持的HTML5 Markdown编辑器。
 

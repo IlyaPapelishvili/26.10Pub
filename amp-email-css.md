@@ -39,7 +39,7 @@ This document outlines the CSS features currently supported inside AMP emails.
 
 ## ыавпывпаыкпкап CSS <a name="applying-css"></a>
 
-### Internal stylesheet <a name="internal-stylesheet"></a>
+### цукпуцкпаукпаукпаукпукпукпук<a name="internal-stylesheet"></a>
 
 When using an internal stylesheet, the CSS is specified inside a single
 `<style amp-custom>` tag located in the `<head>` tag of the email.

@@ -37,7 +37,7 @@ limitations under the License.
 
 This document outlines the CSS features currently supported inside AMP emails.
 
-## ыавпывпаыкпкап CSS <a name="applying-css"></a>
+##ФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФ <a name="applying-css"></a>
 
 ### цукпуцкпаукпаукпаукпукпукпук<a name="internal-stylesheet"></a>
 
